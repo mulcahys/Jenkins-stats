@@ -1,5 +1,5 @@
 certifi==2017.11.5
-chardet==3.0.4
+chardet==4.0.0
 decorator==4.1.2
 enum34==1.1.6
 extras==1.0.0
