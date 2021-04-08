@@ -5,7 +5,7 @@ enum34==1.1.6
 extras==1.0.0
 fixtures==3.0.0
 functools32==3.2.3.post2
-idna==2.6
+idna==2.10
 ipython-genutils==0.2.0
 Jinja2==2.9.6
 jsonschema==2.6.0
