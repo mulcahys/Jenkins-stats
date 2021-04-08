@@ -23,7 +23,7 @@ python-subunit==1.2.0
 pytz==2017.3
 requests==2.20.0
 six==1.11.0
-testtools==2.3.0
+testtools==2.4.0
 traceback2==1.4.0
 traitlets==4.3.2
 unittest2==1.1.0
