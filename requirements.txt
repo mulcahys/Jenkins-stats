@@ -17,7 +17,7 @@ numpy==1.13.3
 pandas==0.21.0
 pbr==3.1.1
 plotly==2.2.1
-python-dateutil==2.6.1
+python-dateutil==2.8.1
 python-mimeparse==1.6.0
 python-subunit==1.2.0
 pytz==2017.3
